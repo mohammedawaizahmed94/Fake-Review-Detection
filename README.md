@@ -3,4 +3,4 @@ An AI-powered Fake Product Review Detection System that uses Natural Language Pr
 
 ## 🚀 Live Demo
 
-https://your-app-name.streamlit.app
+https://fake-review-detection-094.streamlit.app/
